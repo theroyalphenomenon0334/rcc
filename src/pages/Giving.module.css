@@ -1,0 +1,840 @@
+.givingChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 1280px;
+  height: 109px;
+}
+.frameChild {
+  position: relative;
+  width: 1296px;
+  height: 1267px;
+  object-fit: cover;
+}
+.frame {
+  position: absolute;
+  top: 109px;
+  left: -3px;
+  width: 1280px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.whoWeAre {
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  z-index: 0;
+}
+.frame1,
+.frame2 {
+  width: 699.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+}
+.frame1 {
+  position: absolute;
+  top: 58.5px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  font-size: var(--font-size-base);
+  color: var(--black);
+}
+.frame4,
+.frame6 {
+  align-items: flex-start;
+  position: relative;
+}
+.frame4 {
+  width: 573.5px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame6 {
+  width: 446.5px;
+}
+.frame10,
+.frame5,
+.frame6,
+.frame8 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame5 {
+  position: absolute;
+  top: 58.5px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue);
+}
+.frame10,
+.frame8 {
+  width: 363.5px;
+  align-items: flex-start;
+  position: relative;
+}
+.frame10 {
+  width: 282.5px;
+}
+.givingItem {
+  position: absolute;
+  top: 1009px;
+  left: 0;
+  background-color: var(--black);
+  width: 1280px;
+  height: 367px;
+}
+.rcc {
+  position: relative;
+}
+.frame11,
+.frame12 {
+  width: 1235px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame11 {
+  position: absolute;
+  top: 1031px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  font-size: var(--font-size-21xl);
+}
+.contacts {
+  position: relative;
+  font-weight: 800;
+}
+.frame14 {
+  width: 1039px;
+  align-items: flex-start;
+}
+.frame13,
+.frame14,
+.frame16,
+.frame18,
+.frame19 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame13 {
+  position: absolute;
+  top: 1031px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+}
+.frame16,
+.frame18,
+.frame19 {
+  width: 664px;
+  align-items: flex-start;
+}
+.frame18,
+.frame19 {
+  width: 429px;
+}
+.frame19 {
+  position: absolute;
+  top: 1152px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+}
+.image29Icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.frame21,
+.frame22 {
+  width: 431px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame21 {
+  position: absolute;
+  top: 1073px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+}
+.frame24,
+.frame26,
+.frame28,
+.frame30,
+.frame32,
+.frame34,
+.frame36,
+.frame38,
+.frame40,
+.frame42,
+.frame44 {
+  width: 397px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame26,
+.frame28,
+.frame30,
+.frame32,
+.frame34,
+.frame36,
+.frame38,
+.frame40,
+.frame42,
+.frame44 {
+  width: 363px;
+}
+.frame28,
+.frame30,
+.frame32,
+.frame34,
+.frame36,
+.frame38,
+.frame40,
+.frame42,
+.frame44 {
+  width: 329px;
+}
+.frame30,
+.frame32,
+.frame34,
+.frame36,
+.frame38,
+.frame40,
+.frame42,
+.frame44 {
+  width: 295px;
+}
+.frame32,
+.frame34,
+.frame36,
+.frame38,
+.frame40,
+.frame42,
+.frame44 {
+  width: 261px;
+}
+.frame34,
+.frame36,
+.frame38,
+.frame40,
+.frame42,
+.frame44 {
+  width: 227px;
+}
+.frame36,
+.frame38,
+.frame40,
+.frame42,
+.frame44 {
+  width: 193px;
+}
+.frame38,
+.frame40,
+.frame42,
+.frame44 {
+  width: 159px;
+}
+.frame40,
+.frame42,
+.frame44 {
+  width: 125px;
+}
+.frame42,
+.frame44 {
+  width: 91px;
+}
+.frame44 {
+  width: 57px;
+}
+.frameIcon {
+  position: absolute;
+  top: 1032px;
+  left: 0;
+  width: 1280px;
+  height: 55px;
+  overflow: hidden;
+}
+.phone234803 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 258px;
+}
+.frame45,
+.frame46 {
+  width: 1047px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame45 {
+  position: absolute;
+  top: 1076px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+}
+.home,
+.whoWeAre1 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 63px;
+}
+.whoWeAre1 {
+  width: 121px;
+}
+.frame49 {
+  position: absolute;
+  top: 1116px;
+  left: 0;
+  width: 1280px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: center;
+}
+.sunday10Am {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 150px;
+}
+.frame51,
+.frame52 {
+  width: 434px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame51 {
+  position: absolute;
+  top: 1197px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+}
+.tuesday530Pm {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 185px;
+}
+.frame53 {
+  position: absolute;
+  top: 1237px;
+  left: 0;
+  width: 1280px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: center;
+}
+.thursday530Pm {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 207px;
+}
+.frame55,
+.frame56 {
+  width: 439px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame55 {
+  position: absolute;
+  top: 1277px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+}
+.whatWeDo1 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 128px;
+}
+.frame57,
+.frame58 {
+  width: 665px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame57 {
+  position: absolute;
+  top: 1156px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+}
+.giving2 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 69px;
+}
+.frame59,
+.frame61,
+.frame62 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame59 {
+  position: absolute;
+  top: 1196px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+}
+.frame61,
+.frame62 {
+  width: 666px;
+  align-items: flex-start;
+}
+.frame61 {
+  position: absolute;
+  top: 1236px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+}
+.resource {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 95px;
+}
+.frame63,
+.frame64 {
+  width: 663px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame63 {
+  position: absolute;
+  top: 1276px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+}
+.emailRestoreministriesgmail {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 308px;
+}
+.frame65,
+.frame66 {
+  width: 1040px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame65 {
+  position: absolute;
+  top: 1116px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+}
+.address {
+  margin: 0;
+}
+.frame67 {
+  position: absolute;
+  top: 1186px;
+  left: 0;
+  width: 1280px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.forGodLoves {
+  position: relative;
+  line-height: 100px;
+}
+.frame69,
+.frame70 {
+  width: 1025px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame69 {
+  position: absolute;
+  top: 174px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  font-size: var(--font-size-31xl);
+}
+.giveAndItContainer {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 979px;
+}
+.frame71,
+.frame72 {
+  width: 1156px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame71 {
+  position: absolute;
+  top: 285px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+}
+.home1 {
+  position: relative;
+  font-weight: 600;
+}
+.btn,
+.frame73,
+.frame74 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-5xs) var(--padding-22xl);
+  color: inherit;
+}
+.frame73,
+.frame74 {
+  width: 730px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame73 {
+  position: absolute;
+  top: 931px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  font-size: var(--font-size-6xl);
+}
+.frameItem {
+  position: relative;
+  border-radius: 12px;
+  background-color: var(--white);
+  width: 545px;
+  height: 160px;
+}
+.frame75,
+.frame76 {
+  width: 921px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame75 {
+  position: absolute;
+  top: 679px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+}
+.givingChild1,
+.givingChild2,
+.givingInner,
+.rectangleDiv {
+  position: absolute;
+  top: 857px;
+  left: 564px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue);
+  width: 20px;
+  height: 20px;
+}
+.givingChild1,
+.givingChild2,
+.rectangleDiv {
+  top: 860px;
+  left: 599px;
+  background-color: var(--white);
+  width: 18px;
+  height: 18px;
+}
+.givingChild1,
+.givingChild2 {
+  left: 632px;
+}
+.givingChild2 {
+  left: 665px;
+}
+.image41Icon {
+  position: relative;
+  width: 205px;
+  height: 140px;
+  object-fit: cover;
+}
+.frame77,
+.frame78 {
+  width: 918px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame77 {
+  position: absolute;
+  top: 689px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+}
+.restoreMinistries {
+  position: relative;
+  display: inline-block;
+  width: 232px;
+}
+.frame79,
+.frame80 {
+  width: 623px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame79 {
+  position: absolute;
+  top: 689px;
+  left: 0;
+  width: 1280px;
+  align-items: flex-end;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--black);
+}
+.name {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 94px;
+}
+.frame82 {
+  width: 713px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.b {
+  position: relative;
+  display: inline-block;
+  width: 159px;
+}
+.frame83 {
+  position: absolute;
+  top: 727px;
+  left: -3px;
+  width: 1280px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--black);
+}
+.multiCurrencyAccount {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 247px;
+}
+.frame85 {
+  position: absolute;
+  top: 765px;
+  left: -3px;
+  width: 1280px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  color: var(--black);
+}
+.live {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--white);
+  text-align: left;
+}
+.frame88,
+.liveWrapper {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+.liveWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-9xl);
+  background-color: var(--color-darkslateblue);
+  border-radius: var(--br-5xs);
+  flex-direction: row;
+  align-items: center;
+}
+.frame88 {
+  width: 167px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame87,
+.frameIcon1 {
+  position: absolute;
+  left: 0;
+  width: 1280px;
+  overflow: hidden;
+}
+.frame87 {
+  top: 54px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frameIcon1 {
+  top: 43.5px;
+  height: 55px;
+}
+.home2 {
+  position: absolute;
+  top: 58.5px;
+  left: 500.3px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--text);
+  cursor: pointer;
+}
+.vectorIcon {
+  top: 82px;
+  left: 832px;
+  width: 57.5px;
+  height: 6px;
+}
+.frame89,
+.rcc1,
+.vectorIcon {
+  position: absolute;
+}
+.rcc1 {
+  margin: 0 !important;
+  top: 0;
+  left: 93px;
+  display: inline-block;
+  z-index: 0;
+}
+.frame89 {
+  top: 41px;
+  left: 0;
+  width: 1280px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: var(--font-size-21xl);
+  color: var(--black);
+}
+.giving {
+  position: relative;
+  width: 100%;
+  height: 1376px;
+  overflow: hidden;
+  background-image: url(/public/giving@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}

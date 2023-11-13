@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Praise:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-praise: Praise;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-11xl: 30px;
+  --font-size-6xl: 25px;
+  --font-size-31xl: 50px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --white: #fff;
+  --black: #000;
+  --color-darkslateblue: #6142a3;
+  --secondary-color: #d0c6e3;
+  --sub-text: #8e8b94;
+  --text: #130d21;
+
+  /* Gaps */
+  --gap-12xs: 1px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-22xl: 41px;
+  --padding-7xs: 6px;
+  --padding-9xl: 28px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-lg: 18px;
+  --br-5xs: 8px;
+  --br-xl: 20px;
+}

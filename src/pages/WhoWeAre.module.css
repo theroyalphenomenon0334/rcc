@@ -1,0 +1,489 @@
+.frameChild {
+  width: 227px;
+  height: 459px;
+}
+.frameChild,
+.rcc {
+  position: relative;
+}
+.frame {
+  position: absolute;
+  top: 2263px;
+  left: 69px;
+  width: 1120px;
+  height: 541px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.2;
+  font-size: 400px;
+}
+.whoWeAreChild,
+.whoWeAreItem {
+  position: absolute;
+  top: 1697px;
+  left: 45px;
+  background-color: var(--color-darkslateblue);
+  width: 336px;
+  height: 405px;
+}
+.whoWeAreItem {
+  top: 1819px;
+  left: 136px;
+  background-color: var(--secondary-color);
+}
+.ourPastor {
+  align-self: stretch;
+  position: relative;
+  line-height: 100px;
+}
+.frame1 {
+  position: absolute;
+  top: 1449px;
+  left: 52px;
+  width: 329px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: var(--font-size-31xl);
+}
+.frameItem {
+  position: relative;
+  width: 18px;
+  height: 55px;
+}
+.vectorParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-21xl);
+}
+.home {
+  position: absolute;
+  top: 17.5px;
+  left: 425.3px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.frameInner {
+  position: absolute;
+  top: 38.8px;
+  left: 504px;
+  width: 101px;
+  height: 6px;
+}
+.whoWeAre1 {
+  position: absolute;
+  top: 17.5px;
+  left: 505.5px;
+  font-weight: 600;
+  color: var(--color-darkslateblue);
+}
+.whatWeDo {
+  left: 631.5px;
+  cursor: pointer;
+}
+.giving,
+.media,
+.resources,
+.whatWeDo {
+  position: absolute;
+  top: 17.5px;
+  font-weight: 600;
+}
+.giving {
+  left: 758.5px;
+  cursor: pointer;
+}
+.media,
+.resources {
+  left: 841.5px;
+}
+.resources {
+  left: 922.5px;
+}
+.live {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--white);
+  text-align: left;
+}
+.liveWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-9xl);
+  background-color: var(--color-darkslateblue);
+  position: absolute;
+  top: 11px;
+  left: 1038px;
+  border-radius: var(--br-5xs);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame3 {
+  align-self: stretch;
+  position: relative;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame2 {
+  position: absolute;
+  top: 41px;
+  left: 58px;
+  width: 1201px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  font-size: var(--font-size-base);
+}
+.rectangleIcon {
+  position: absolute;
+  top: 641px;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 1280px;
+  height: 818px;
+  object-fit: cover;
+}
+.aboutUs {
+  position: absolute;
+  top: 52px;
+  left: 569px;
+  line-height: 100px;
+}
+.restoreChurchWas {
+  margin: 0;
+}
+.restoreChurchWasContainer {
+  position: absolute;
+  top: 117px;
+  left: 52px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  white-space: pre-wrap;
+  text-align: center;
+  display: inline-block;
+  width: 1176px;
+}
+.v {
+  position: relative;
+  font-weight: 600;
+}
+.btn,
+.frame4 {
+  position: absolute;
+  overflow: hidden;
+}
+.btn {
+  top: 1356px;
+  left: 606px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-22xl);
+  font-size: var(--font-size-6xl);
+}
+.frame4 {
+  top: 122px;
+  left: 0;
+  width: 1280px;
+  height: 1459px;
+  background-image: url(/public/frame@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  font-size: var(--font-size-31xl);
+  color: var(--white);
+}
+.revYemisiAkande {
+  position: absolute;
+  top: 1841px;
+  left: 483px;
+  font-size: var(--font-size-11xl);
+  line-height: 100px;
+}
+.heresAPeepContainer,
+.in2001SheContainer {
+  position: absolute;
+  top: 1921px;
+  left: 483px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 759px;
+}
+.in2001SheContainer {
+  top: 2227px;
+  left: 52px;
+  width: 1193px;
+}
+.image35Icon,
+.image36Icon,
+.image37Icon,
+.image38Icon,
+.image39Icon,
+.image40Icon {
+  position: absolute;
+  top: 64px;
+  left: 1053px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.image36Icon,
+.image37Icon,
+.image38Icon,
+.image39Icon,
+.image40Icon {
+  left: 1087px;
+}
+.image37Icon,
+.image38Icon,
+.image39Icon,
+.image40Icon {
+  left: 1121px;
+}
+.image38Icon,
+.image39Icon,
+.image40Icon {
+  left: 1155px;
+}
+.image39Icon,
+.image40Icon {
+  left: 1189px;
+}
+.image40Icon {
+  left: 1223px;
+}
+.frame6 {
+  position: absolute;
+  top: 22px;
+  left: 27px;
+  height: 60px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-21xl);
+}
+.contacts,
+.phone234803 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  font-weight: 800;
+}
+.phone234803 {
+  top: 45px;
+  left: 0;
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+  width: 258px;
+}
+.address13McContainer,
+.emailRestoreministriesgmail {
+  position: absolute;
+  top: 85px;
+  left: 7px;
+  font-weight: 600;
+  display: inline-block;
+  width: 308px;
+}
+.address13McContainer {
+  top: 155px;
+}
+.frame7 {
+  position: absolute;
+  top: 22px;
+  left: 233px;
+  width: 315px;
+  height: 245px;
+  overflow: hidden;
+}
+.media1,
+.whatWeDo1 {
+  position: absolute;
+  top: 205px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 69px;
+}
+.whatWeDo1 {
+  top: 125px;
+  left: 1px;
+  width: 128px;
+}
+.navigations {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  font-weight: 800;
+  text-align: left;
+}
+.giving1,
+.home1,
+.resource,
+.whoWeAre2 {
+  position: absolute;
+  top: 45px;
+  left: 2px;
+  font-weight: 600;
+  display: inline-block;
+  width: 63px;
+}
+.giving1,
+.resource,
+.whoWeAre2 {
+  top: 85px;
+  width: 121px;
+}
+.giving1,
+.resource {
+  top: 245px;
+  left: 3px;
+  width: 95px;
+}
+.giving1 {
+  top: 165px;
+  left: 2px;
+  width: 69px;
+}
+.frame8 {
+  position: absolute;
+  top: 22px;
+  left: 614px;
+  width: 130px;
+  height: 275px;
+  overflow: hidden;
+  text-align: center;
+}
+.serviceTimes,
+.socials {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  font-weight: 800;
+  text-align: left;
+}
+.serviceTimes {
+  top: 121px;
+}
+.image29Icon,
+.image30Icon,
+.image31Icon,
+.image32Icon,
+.image33Icon,
+.image34Icon {
+  position: absolute;
+  top: 42px;
+  left: 8px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.image30Icon,
+.image31Icon,
+.image32Icon,
+.image33Icon,
+.image34Icon {
+  left: 42px;
+}
+.image31Icon,
+.image32Icon,
+.image33Icon,
+.image34Icon {
+  left: 76px;
+}
+.image32Icon,
+.image33Icon,
+.image34Icon {
+  left: 110px;
+}
+.image33Icon,
+.image34Icon {
+  left: 144px;
+}
+.image34Icon {
+  left: 178px;
+}
+.sunday10Am,
+.thursday530Pm,
+.tuesday530Pm {
+  position: absolute;
+  top: 166px;
+  left: 5px;
+  font-weight: 600;
+  display: inline-block;
+  width: 150px;
+}
+.thursday530Pm,
+.tuesday530Pm {
+  top: 206px;
+  width: 185px;
+}
+.thursday530Pm {
+  top: 246px;
+  left: 0;
+  width: 207px;
+}
+.frame5,
+.frame9 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame9 {
+  top: 22px;
+  left: 841px;
+  width: 207px;
+  height: 276px;
+  text-align: center;
+}
+.frame5 {
+  top: 3127px;
+  left: 0;
+  background-color: var(--black);
+  width: 1280px;
+  height: 371px;
+  color: var(--white);
+}
+.image42Icon {
+  position: absolute;
+  top: 1751px;
+  left: 88px;
+  width: 336px;
+  height: 435px;
+  object-fit: cover;
+}
+.whoWeAre {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 3544px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}

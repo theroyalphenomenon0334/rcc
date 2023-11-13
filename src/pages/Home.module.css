@@ -1,0 +1,1092 @@
+.homeChild {
+  position: absolute;
+  top: 5203px;
+  left: 0;
+  width: 1280px;
+  height: 590px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.youthExpression {
+  position: absolute;
+  top: 4321px;
+  left: 493px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.frameChild {
+  width: 18px;
+  height: 55px;
+}
+.frameChild,
+.rcc {
+  position: relative;
+}
+.vectorParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-21xl);
+}
+.home1 {
+  position: absolute;
+  top: 17.5px;
+  left: 425.3px;
+  font-weight: 600;
+  color: var(--color-darkslateblue);
+}
+.frameItem {
+  position: absolute;
+  top: 39.5px;
+  left: 421px;
+  width: 57.5px;
+  height: 6px;
+}
+.whoWeAre {
+  position: absolute;
+  top: 18px;
+  left: 503.5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.whatWeDo {
+  left: 627.5px;
+  cursor: pointer;
+}
+.giving,
+.media,
+.resources,
+.whatWeDo {
+  position: absolute;
+  top: 18px;
+  font-weight: 600;
+}
+.giving {
+  left: 752.5px;
+  cursor: pointer;
+}
+.media,
+.resources {
+  left: 833.5px;
+}
+.resources {
+  left: 912.5px;
+}
+.live {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--white);
+  text-align: left;
+}
+.frame,
+.liveWrapper {
+  position: absolute;
+  overflow: hidden;
+}
+.liveWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-9xl);
+  background-color: var(--color-darkslateblue);
+  top: 12px;
+  left: 1028px;
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.liveWrapper:hover {
+  cursor: default;
+}
+.frame {
+  top: 41px;
+  left: 75px;
+  width: 1116px;
+  height: 60px;
+  font-size: var(--font-size-base);
+}
+.frameInner,
+.rectangleDiv {
+  position: absolute;
+  left: 0;
+  width: 1296px;
+}
+.frameInner {
+  top: 0;
+  height: 544px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  top: 544px;
+  background-color: var(--color-darkslateblue);
+  height: 210px;
+}
+.theRestore {
+  margin: 0;
+}
+.theRestoreChurchContainer {
+  position: absolute;
+  top: 87px;
+  left: 42px;
+  line-height: 100px;
+}
+.iWillRestoreContainer {
+  position: absolute;
+  top: 281px;
+  left: 57px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 741px;
+}
+.joel225,
+.joinOurSocial {
+  position: absolute;
+  top: 389px;
+  left: 489px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+}
+.joinOurSocial {
+  top: 571px;
+  left: 324px;
+  font-size: var(--font-size-21xl);
+}
+.image1Icon,
+.image2Icon,
+.image3Icon {
+  position: absolute;
+  top: 654px;
+  left: 202px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image2Icon,
+.image3Icon {
+  left: 277px;
+}
+.image3Icon {
+  left: 352px;
+}
+.image4Icon {
+  left: 427px;
+  cursor: pointer;
+}
+.image4Icon,
+.image5Icon,
+.image6Icon {
+  position: absolute;
+  top: 654px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.image5Icon {
+  left: 502px;
+  cursor: pointer;
+}
+.image6Icon {
+  left: 577px;
+}
+.image10Icon,
+.image11Icon,
+.image12Icon,
+.image7Icon,
+.image8Icon,
+.image9Icon {
+  position: absolute;
+  top: 654px;
+  left: 652px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.image10Icon,
+.image11Icon,
+.image12Icon,
+.image8Icon,
+.image9Icon {
+  left: 727px;
+}
+.image10Icon,
+.image11Icon,
+.image12Icon,
+.image9Icon {
+  left: 802px;
+}
+.image10Icon,
+.image11Icon,
+.image12Icon {
+  left: 877px;
+}
+.image11Icon,
+.image12Icon {
+  left: 952px;
+}
+.image12Icon {
+  left: 1027px;
+  cursor: pointer;
+}
+.frameInput {
+  border: 0;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  font-size: 15px;
+  background-color: var(--white);
+  position: absolute;
+  top: 448px;
+  left: 914px;
+  border-radius: var(--br-mini);
+  width: 332px;
+  height: 53px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.frame1 {
+  position: absolute;
+  top: 115px;
+  left: 0;
+  width: 1280px;
+  height: 754px;
+  overflow: hidden;
+  font-size: 90px;
+  color: var(--white);
+}
+.ourMission {
+  position: relative;
+  font-weight: 600;
+}
+.ourMissionWrapper {
+  text-decoration: none;
+  border-radius: var(--br-xl);
+  width: 587px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 85px 0;
+  box-sizing: border-box;
+  background-image: url(/public/frame-6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: inherit;
+}
+.frame2,
+.ourMissionWrapper,
+.ourVisionWrapper {
+  height: 239px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.ourVisionWrapper {
+  text-decoration: none;
+  border-radius: var(--br-xl);
+  width: 605px;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url(/public/frame-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: inherit;
+}
+.frame2 {
+  position: absolute;
+  top: 937px;
+  left: 35px;
+  width: 1210px;
+  overflow: hidden;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 18px;
+  font-size: var(--font-size-21xl);
+  color: var(--white);
+}
+.frameChild1,
+.rectangleIcon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 587px;
+  height: 325px;
+  object-fit: cover;
+}
+.frameChild1 {
+  top: 0;
+  left: 607px;
+  width: 603px;
+}
+.joinOurServicesContainer,
+.paymentOfTitheContainer {
+  position: absolute;
+  top: 76px;
+  left: 724px;
+  font-weight: 600;
+  display: inline-block;
+  width: 370px;
+}
+.joinOurServicesContainer {
+  top: 79px;
+  left: 151px;
+  width: 278px;
+}
+.liveService {
+  position: absolute;
+  top: 22px;
+  left: 176px;
+  font-size: var(--font-size-21xl);
+}
+.giving1,
+.learnMore,
+.liveService {
+  font-weight: 600;
+  text-align: left;
+}
+.giving1 {
+  position: absolute;
+  top: 22px;
+  left: 843px;
+  font-size: var(--font-size-21xl);
+}
+.learnMore {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-poppins);
+  color: var(--white);
+}
+.btn {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs) var(--padding-22xl);
+  background-color: var(--color-darkslateblue);
+  position: absolute;
+  top: 237px;
+  left: 797px;
+  border-radius: var(--br-mini);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.learnMore1 {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+}
+.btn1 {
+  position: absolute;
+  top: 237px;
+  left: 182px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  width: 223px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-22xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+}
+.image13Icon {
+  position: absolute;
+  top: 1.5px;
+  left: 33.5px;
+  width: 89px;
+  height: 89px;
+  object-fit: cover;
+}
+.image14Icon,
+.image15Icon,
+.image16Icon {
+  position: absolute;
+  top: 3.8px;
+  left: 394.8px;
+  width: 94.3px;
+  height: 94.3px;
+  object-fit: cover;
+}
+.image14Icon,
+.image15Icon {
+  top: 164.9px;
+  left: 104.9px;
+  width: 88.3px;
+  height: 88.3px;
+}
+.image14Icon {
+  top: 217.9px;
+  left: 421.9px;
+  width: 90.2px;
+  height: 90.2px;
+}
+.frame3 {
+  position: absolute;
+  top: 1237px;
+  left: 35px;
+  width: 1210px;
+  height: 327px;
+  overflow: hidden;
+  text-align: center;
+  color: var(--white);
+}
+.paymentOfTitheContainer1,
+.paymentOfTitheContainer2 {
+  position: absolute;
+  top: 146px;
+  left: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 370px;
+}
+.paymentOfTitheContainer2 {
+  top: 243px;
+  left: 21px;
+}
+.am1200,
+.everySunday {
+  position: absolute;
+  top: 352px;
+  left: 30px;
+  display: inline-block;
+  width: 152px;
+}
+.am1200 {
+  top: 353px;
+  left: 246px;
+  width: 208px;
+}
+.sundayService {
+  position: absolute;
+  top: 72px;
+  left: 12px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.btn2 {
+  position: absolute;
+  top: 440px;
+  left: 184px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-22xl);
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+  color: var(--white);
+}
+.mdiclockOutlineIcon,
+.uilcalenderIcon {
+  position: absolute;
+  top: 355px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.mdiclockOutlineIcon {
+  left: 218px;
+}
+.frameChild2 {
+  position: absolute;
+  top: 0;
+  left: 468px;
+  border-radius: var(--br-lg);
+  width: 750px;
+  height: 485px;
+  object-fit: cover;
+}
+.frame4 {
+  position: absolute;
+  top: 1731px;
+  left: 28px;
+  width: 1218px;
+  height: 494px;
+  overflow: hidden;
+}
+.paymentOfTitheContainer3,
+.paymentOfTitheContainer4 {
+  position: absolute;
+  top: 207px;
+  left: 795px;
+  font-weight: 600;
+  display: inline-block;
+  width: 370px;
+}
+.paymentOfTitheContainer4 {
+  top: 304px;
+  left: 796px;
+}
+.everyThursday,
+.pm {
+  position: absolute;
+  top: 413px;
+  left: 826px;
+  display: inline-block;
+  width: 170px;
+}
+.pm {
+  top: 414px;
+  left: 1042px;
+  width: 152px;
+}
+.prayerMeeting {
+  position: absolute;
+  top: 133px;
+  left: 787px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.btn3 {
+  position: absolute;
+  top: 501px;
+  left: 921px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-22xl);
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+  color: var(--white);
+}
+.mdiclockOutlineIcon1,
+.uilcalenderIcon1 {
+  position: absolute;
+  top: 416px;
+  left: 796px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.mdiclockOutlineIcon1 {
+  left: 1014px;
+}
+.frameChild3 {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 750px;
+  height: 485px;
+  object-fit: cover;
+}
+.frame5 {
+  position: absolute;
+  top: 2294px;
+  left: 35px;
+  width: 1367.3px;
+  height: 555px;
+  overflow: hidden;
+}
+.paymentOfTitheContainer5,
+.paymentOfTitheContainer6 {
+  position: absolute;
+  top: 127px;
+  left: 8px;
+  font-weight: 600;
+  display: inline-block;
+  width: 370px;
+}
+.paymentOfTitheContainer6 {
+  top: 224px;
+  left: 9px;
+}
+.everyTuesday,
+.pm1 {
+  position: absolute;
+  top: 333px;
+  left: 39px;
+  display: inline-block;
+  width: 152px;
+}
+.pm1 {
+  top: 334px;
+  left: 255px;
+}
+.bibleStudy {
+  position: absolute;
+  top: 53px;
+  left: 0;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.btn4 {
+  position: absolute;
+  top: 421px;
+  left: 193px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-22xl);
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+  color: var(--white);
+}
+.frame6,
+.mdiclockOutlineIcon2,
+.uilcalenderIcon2 {
+  position: absolute;
+  top: 336px;
+  left: 9px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.frame6,
+.mdiclockOutlineIcon2 {
+  left: 227px;
+}
+.frame6 {
+  top: 3012px;
+  left: 38px;
+  width: 1218px;
+  height: 485px;
+}
+.paymentOfTitheContainer7,
+.paymentOfTitheContainer8 {
+  position: absolute;
+  top: 164.7px;
+  left: 780px;
+  font-weight: 600;
+  display: inline-block;
+  width: 370px;
+}
+.paymentOfTitheContainer8 {
+  top: 261.7px;
+  left: 781px;
+}
+.am12001,
+.everySunday1 {
+  position: absolute;
+  top: 370.7px;
+  left: 811px;
+  display: inline-block;
+  width: 170px;
+}
+.am12001 {
+  top: 371.7px;
+  left: 1027px;
+  width: 205px;
+}
+.holyCommunion {
+  position: absolute;
+  top: 90.7px;
+  left: 772px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.btn5 {
+  position: absolute;
+  top: 458.7px;
+  left: 935px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-22xl);
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+  color: var(--white);
+}
+.mdiclockOutlineIcon3,
+.uilcalenderIcon3 {
+  position: absolute;
+  top: 373.7px;
+  left: 781px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.mdiclockOutlineIcon3 {
+  left: 999px;
+}
+.frameChild5 {
+  position: absolute;
+  top: 27.7px;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 750px;
+  height: 485px;
+  object-fit: cover;
+}
+.frame7 {
+  position: absolute;
+  top: 3598.3px;
+  left: 40px;
+  width: 1369.1px;
+  height: 519px;
+  overflow: hidden;
+}
+.mapAndDirections {
+  position: absolute;
+  top: 5116px;
+  left: 495px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.homeItem {
+  position: absolute;
+  top: 5046px;
+  left: 581px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue);
+  width: 20px;
+  height: 20px;
+}
+.homeChild1,
+.homeInner {
+  top: 5047px;
+  background-color: var(--sub-text);
+  width: 18px;
+  height: 18px;
+}
+.homeInner {
+  position: absolute;
+  left: 616px;
+  border-radius: var(--br-xl);
+}
+.homeChild1 {
+  left: 649px;
+}
+.homeChild1,
+.homeChild2,
+.image13Icon1 {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.homeChild2 {
+  top: 5047px;
+  left: 682px;
+  background-color: var(--sub-text);
+  width: 18px;
+  height: 18px;
+}
+.image13Icon1 {
+  top: 4401px;
+  left: 0;
+  width: 1280px;
+  height: 751px;
+  object-fit: cover;
+}
+.checkOurYouth {
+  top: 4866px;
+  left: 507px;
+  font-size: var(--font-size-6xl);
+}
+.checkOurYouth,
+.paymentOfTitheContainer9,
+.youthExpression1 {
+  position: absolute;
+  font-weight: 600;
+  color: var(--white);
+}
+.paymentOfTitheContainer9 {
+  top: 4693px;
+  left: 464px;
+  text-align: center;
+  display: inline-block;
+  width: 370px;
+}
+.youthExpression1 {
+  top: 4595px;
+  left: 467px;
+  font-size: var(--font-size-21xl);
+}
+.homeChild3,
+.homeChild4 {
+  position: absolute;
+  top: 4401px;
+  left: 0;
+  width: 162px;
+  height: 173.5px;
+}
+.homeChild4 {
+  left: 88px;
+  width: 201.5px;
+  height: 164.9px;
+}
+.homeChild5,
+.homeChild6 {
+  position: absolute;
+  top: 4850.1px;
+  left: 1013px;
+  width: 202.1px;
+  height: 163.9px;
+}
+.homeChild6 {
+  top: 4401px;
+  left: 234px;
+  width: 201.5px;
+  height: 164.9px;
+}
+.homeChild7,
+.homeChild8 {
+  position: absolute;
+  top: 4850.9px;
+  left: 867px;
+  width: 202.1px;
+  height: 163.1px;
+}
+.homeChild8 {
+  top: 4840px;
+  left: 1140.8px;
+  width: 139.2px;
+  height: 174px;
+}
+.rcc1 {
+  position: absolute;
+  top: 22px;
+  left: 45px;
+  font-size: var(--font-size-21xl);
+  text-align: left;
+}
+.contacts,
+.navigations,
+.serviceTimes,
+.socials {
+  position: absolute;
+  top: 22px;
+  left: 241px;
+  font-weight: 800;
+  text-align: left;
+}
+.navigations,
+.serviceTimes,
+.socials {
+  left: 616px;
+}
+.serviceTimes,
+.socials {
+  left: 851px;
+}
+.serviceTimes {
+  top: 143px;
+}
+.image17Icon,
+.image18Icon,
+.image19Icon,
+.image20Icon,
+.image21Icon,
+.image22Icon {
+  position: absolute;
+  top: 64px;
+  left: 849px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.image18Icon,
+.image19Icon,
+.image20Icon,
+.image21Icon,
+.image22Icon {
+  left: 883px;
+}
+.image19Icon,
+.image20Icon,
+.image21Icon,
+.image22Icon {
+  left: 917px;
+}
+.image20Icon,
+.image21Icon,
+.image22Icon {
+  left: 951px;
+}
+.image21Icon,
+.image22Icon {
+  left: 985px;
+}
+.image22Icon {
+  left: 1019px;
+}
+.image23Icon,
+.image24Icon,
+.image25Icon,
+.image26Icon,
+.image27Icon,
+.image28Icon {
+  position: absolute;
+  top: 64px;
+  left: 1053px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.image24Icon,
+.image25Icon,
+.image26Icon,
+.image27Icon,
+.image28Icon {
+  left: 1087px;
+}
+.image25Icon,
+.image26Icon,
+.image27Icon,
+.image28Icon {
+  left: 1121px;
+}
+.image26Icon,
+.image27Icon,
+.image28Icon {
+  left: 1155px;
+}
+.image27Icon,
+.image28Icon {
+  left: 1189px;
+}
+.image28Icon {
+  left: 1223px;
+}
+.frameChild6 {
+  position: absolute;
+  top: 23px;
+  left: 27px;
+  width: 18px;
+  height: 55px;
+}
+.home2,
+.phone234803,
+.whoWeAre1 {
+  position: absolute;
+  top: 67px;
+  font-weight: 600;
+  display: inline-block;
+}
+.phone234803 {
+  left: 233px;
+  width: 258px;
+  cursor: pointer;
+}
+.home2,
+.whoWeAre1 {
+  left: 616px;
+  width: 63px;
+}
+.whoWeAre1 {
+  top: 107px;
+  width: 121px;
+}
+.giving2,
+.media1,
+.sunday10Am,
+.thursday530Pm,
+.tuesday530Pm,
+.whatWeDo1 {
+  position: absolute;
+  top: 188px;
+  left: 846px;
+  font-weight: 600;
+  display: inline-block;
+  width: 150px;
+}
+.giving2,
+.media1,
+.thursday530Pm,
+.tuesday530Pm,
+.whatWeDo1 {
+  top: 228px;
+  width: 185px;
+}
+.giving2,
+.media1,
+.thursday530Pm,
+.whatWeDo1 {
+  top: 268px;
+  left: 841px;
+  width: 207px;
+}
+.giving2,
+.media1,
+.whatWeDo1 {
+  top: 147px;
+  left: 615px;
+  width: 128px;
+}
+.giving2,
+.media1 {
+  top: 187px;
+  left: 616px;
+  width: 69px;
+}
+.media1 {
+  top: 227px;
+  left: 614px;
+}
+.address13McContainer,
+.emailRestoreministriesgmail,
+.resource {
+  position: absolute;
+  top: 267px;
+  left: 617px;
+  font-weight: 600;
+  display: inline-block;
+  width: 95px;
+}
+.address13McContainer,
+.emailRestoreministriesgmail {
+  top: 107px;
+  left: 240px;
+  text-align: left;
+  width: 308px;
+  cursor: pointer;
+}
+.address13McContainer {
+  top: 177px;
+}
+.frame8,
+.home {
+  overflow: hidden;
+}
+.frame8 {
+  position: absolute;
+  top: 5868px;
+  left: 0;
+  background-color: var(--black);
+  width: 1280px;
+  height: 367px;
+  text-align: center;
+  color: var(--white);
+}
+.home {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 6235px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
